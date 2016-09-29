@@ -1,0 +1,4 @@
+Fall	61
+Spring	68
+Summer	63
+Winter	83

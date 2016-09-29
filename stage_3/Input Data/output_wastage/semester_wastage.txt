@@ -1,0 +1,4 @@
+Fall	38
+Spring	31
+Summer	36
+Winter	16
